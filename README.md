@@ -15,7 +15,7 @@
 ㅤㅤㅤ
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=50&color=F3EBFF&center=true&width=435&lines=victory..+is+my+destiny!;youve+much+yet+to+learn..;know+my+power!)](https://git.io/typing-svg)
 
-${{\color{#977bb5} ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ }}$
+${{\color{#bfbac4} ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ }}$
 
 
 <table>
