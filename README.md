@@ -17,7 +17,7 @@
 
 <table>
   <tr>
- <td><a href="test">@name!</a> <img src="https://files.catbox.moe/v4b2g8.gif" width="30px" align="center" > <a href="test">@name!</a>  <a href="test">@name!</a> 
+ <td><a href="test">@name!</a> <img src="https://files.catbox.moe/v4b2g8.gif" width="15px" align="center" > <a href="test">@name!</a>  <a href="test">@name!</a> 
   </tr>
 </table>
 
