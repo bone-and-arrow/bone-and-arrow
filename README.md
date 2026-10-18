@@ -24,11 +24,11 @@ ${{\color{#977bb5} ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏�
 </table>
 
 <!--  note from hyper.. 
-you can change the pixels freely! sometimes the gifs dont appear in the preview, but theyre there. can also change any text! -->
+you can change the pixels freely! sometimes the gifs dont appear in the preview, but theyre there. can also change any text! the icon used here is merely a place holder. not meant for actual use unless you intend to -->
 
-<sub> write about ureself </sub>
   
    <img src="https://files.catbox.moe/rqmoeh.png"  align="center" width="500" />
 
+<sub> write about ureself </sub>
 
 <!-- hyper was here --?
