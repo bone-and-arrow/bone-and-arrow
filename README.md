@@ -19,7 +19,7 @@ ${{\color{#bfbac4} ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏�
 
 
 <table>
- <td><a href="https://iknowuraddress.atabook.org">𖥻αƚαɓσσƙ</a> ⠀  <img src="https://files.catbox.moe/v4b2g8.gif" width="21px" align="center" > ⠀  <a href="fluffle.cc/dearwoody">𖥻ϝʅυϝϝʅҽ!</a>  ⠀ <img src="https://files.catbox.moe/wniey1.webp" width="18px" align="center" >⠀  <a href="https://pronouns.cc/@heavysleepurrr">𖥻ρɾσɳσυɳʂ!</a> 
+ <td><a href="https://iknowuraddress.atabook.org">𖥻αƚαɓσσƙ</a> ⠀  <img src="https://files.catbox.moe/v4b2g8.gif" width="21px" align="center" > ⠀  <a href="https://fluffle.cc/dearwoody">𖥻ϝʅυϝϝʅҽ</a>  ⠀ <img src="https://files.catbox.moe/wniey1.webp" width="18px" align="center" >⠀  <a href="https://pronouns.cc/@heavysleepurrr">𖥻ρɾσɳσυɳʂ</a> 
   </tr>
 </table>
 
