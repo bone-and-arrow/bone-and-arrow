@@ -10,7 +10,7 @@
 ㅤ
    <div align='center' />ㅤㅤㅤ
    
-   <img src="https://files.catbox.moe/ra6yoz.png"  align="center" width="410px"  />
+   <img src="https://files.catbox.moe/lon7lh.png"  align="center" width="410px"  />
 
 ㅤㅤㅤ
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=50&color=F3EBFF&center=true&width=435&lines=victory..+is+my+destiny!;youve+much+yet+to+learn..;know+my+power!)](https://git.io/typing-svg)
