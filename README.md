@@ -29,6 +29,12 @@ you can change the pixels freely! sometimes the gifs dont appear in the preview,
   
    <img src="https://files.catbox.moe/rqmoeh.png"  align="center" width="500" />
 
-<sub> write about ureself </sub>
+<details>
+   <summary>$\texttt{\color{#686576} ͙͘͡★ }$</summary>
+
+   the moon will sing a song for me , " i love you like the sun ! "
+   hi shoutout to my darling wife for helping wit da layout love uu dear aww
+   
+</details>
 
 <!-- hyper was here --?
